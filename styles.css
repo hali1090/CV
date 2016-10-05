@@ -1,0 +1,17 @@
+body{
+    background-color: darkgrey;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    font-family: verdana;
+    font-size: 60px;
+}
+
+ul{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
